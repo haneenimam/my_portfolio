@@ -1,0 +1,31 @@
+body {
+    scroll-behavior: smooth;
+    font-family: "Montserrat", serif !important;
+}
+
+header {
+    margin-top: 56px;
+}
+
+section {
+    padding: 60px 0;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.row {
+    margin: 0;
+}
+
+.col-md-6 {
+    padding: 0;
+}
+.text-reset {
+    text-decoration: none; 
+}
+
+.text-reset:hover {
+    text-decoration: underline; 
+}
