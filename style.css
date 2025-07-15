@@ -53,3 +53,17 @@ section {
 .footer .btn i {
   color: white !important;
 }
+
+#tech-stack .card {
+  transition: transform 0.3s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#tech-stack .card:hover {
+  transform: scale(1.03);
+}
+
+
